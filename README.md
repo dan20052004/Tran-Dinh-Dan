@@ -21,7 +21,7 @@ git add .
 git commit -m "Thông điệp commit"
 ```
 
-## Phần 4 - Push
+# Phan4 -Push
 
 ```
 Push localrepo lên Remote repo trên Github.
