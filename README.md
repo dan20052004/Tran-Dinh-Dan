@@ -2,13 +2,13 @@
 ```
 Đây là Github repo cho thực hành Git.
 ```
-# Phần 1 - Cấu hình Git
+## Phần 1 - Cấu hình Git
 Lệnh để cấu hình Git:
 
 git config --global user.name "Name"
 git config --global user.email "abc@zy.com"
 
-# Phần 2 - Khởi tạo Git repo
+## Phần 2 - Khởi tạo Git repo
 ```
 Lênh để khởi tạo Gitrepo là: git init
 ```
@@ -21,7 +21,7 @@ git add .
 git commit -m "Thông điệp commit"
 ```
 
-# Phan4 -Push
+# Phần 4 - Push
 
 ```
 Push localrepo lên Remote repo trên Github.
